@@ -1,6 +1,6 @@
 ## DotNet Technical Test
 
-Welcome to Swapi technical test.
+Welcome to LSG technical test.
 
 ### Objectives
 
